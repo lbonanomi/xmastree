@@ -1,0 +1,21 @@
+{
+	"1545391701": {
+		"commands": [
+			"curl -s https://webapp.company.com/page.php?argument=abuse",
+			"curl -s https://webapp.company.com/page.php?argument=abuse",
+			"curl -s https://webapp.company.com/page.php?argument=abuse",
+			"curl -s https://webapp.company.com/page.php?argument=abuse",
+			"curl -s https://webapp.company.com/page.php?argument=abuse"
+		]
+	},
+	"1545391702": {
+		"commands": [
+			"curl -s https://webapp.company.com/page.php?argument=abuse-plugins",
+			"curl -s https://webapp.company.com/page.php?argument=abuse-plugins",
+			"curl -s https://webapp.company.com/page.php?argument=abuse-plugins",
+			"curl -s https://webapp.company.com/page.php?argument=abuse",
+			"curl -s https://webapp.company.com/page.php?argument=abuse-plugins/",
+			"curl -s https://webapp.company.com/page.php?argument=abuse-plugins"
+		]
+	}
+}
