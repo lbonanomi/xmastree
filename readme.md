@@ -1,6 +1,9 @@
 # xmastree
 
-> Gentlemen, start your engines.    
+>> **Christmas tree**  
+   Noun  
+>> Christmas tree (plural Christmas trees)  
+>> 2. (racing) A pole with lights, similar to a traffic signal, used for signalling the start of an automobile race.  
 
 
 ## What's this?
@@ -18,4 +21,4 @@ Jobs are defined in a JSON file and executed in child forks as the internal cloc
 
 ## Known Issues
 
-* Child processes are reaped at completeion of the cycle (about a minute after they start)
+* Child processes are reaped at completeion of the cycle
