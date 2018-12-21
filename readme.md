@@ -1,9 +1,9 @@
 # xmastree
 
->> **Christmas tree**  
+> **Christmas tree**  
    Noun  
->> Christmas tree (plural Christmas trees)  
->> 2. (racing) A pole with lights, similar to a traffic signal, used for signalling the start of an automobile race.  
+> Christmas tree (plural Christmas trees)  
+> 2. (racing) A pole with lights, similar to a traffic signal, used for signalling the start of an automobile race.  
 
 
 ## What's this?
