@@ -41,14 +41,14 @@ for timestamp in xmastree_json:
 				pipe[timestamp] = xmastree_json[timestamp][commands]
 
 
-# For the next 75 seconds: 
+# For the next 61 seconds: 
 # 	every .1 seconds get the time
 #	If the integer time now is the start time:
 #		execute associated commands
 #		pop that command off the pipe
 
 
-print "It is now " + str(int(time.time())) + ". I start at " + str(start_time) + ". I will run for 75 seconds on rotator " + str(this_instance_rotation_number)
+print "It is now " + str(int(time.time())) + ". I start at " + str(start_time) + " on rotator " + str(this_instance_rotation_number)
 
 now = time.time()
 
