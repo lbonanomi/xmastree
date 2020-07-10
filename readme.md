@@ -22,3 +22,6 @@ Jobs are defined in a JSON file and executed in child forks as the internal cloc
 ## Known Issues
 
 * Child processes are reaped at completeion of the cycle
+
+<!-- Yep, i'm collecting your IP address. -->
+<img src="https://evening-spire-71333.herokuapp.com/">
